@@ -1,3 +1,5 @@
+package Arrays;
+
 //https://leetcode.com/problems/richest-customer-wealth/
 //1672. Richest Customer Wealth
 public class Leetcode_1672 {

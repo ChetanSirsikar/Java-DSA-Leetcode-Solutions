@@ -1,7 +1,6 @@
-//https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+package Arrays;//https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 //1431. Kids With the Greatest Number of Candies
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Leetcode_1431 {
